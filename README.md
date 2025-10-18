@@ -115,7 +115,7 @@ Run:
 mvn spring-boot:run
 
 Access API:
-http://localhost:8080/api/similarity
+http://localhost:7777/api/similarity
 
 ------------------------------------------------------------
 
